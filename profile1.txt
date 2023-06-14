@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+	<title> SIMPLE PROFILE CARD </title>
+	<link rel="stylesheet" href="profile card.css">   
+	<script src="https://kit.fontawesome.com/a432467160.js" crossorigin="anonymous"></script>    
+</head>
+<body>
+	<h1 style="background-color: skyblue;">SIMPLE PROFILE CARDS OF INDIAN SPORTS PERSONALITIES</h1>
+        <div class="Viratkohli">
+        	<img src="C:\Users\DELL\Downloads\vk 1.png" width="120px" height="120px">
+        	<h3>VIRAT KOHLI</h3>
+        	<p> Indian Cricketer</p>
+        	<div class="socialmedia">    <!--next we have to create social media icons like fb,insta,etc for this we need font awesome kit---->
+        	<a href="">	<i class="fa-brands fa-facebook fa-beat"></i></a>
+        	<a href="">	<i class="fa-brands fa-twitter "></i></a>
+        	<a href="">	<i class="fa-brands fa-instagram "></i></a>
+        	<a href="">	<i class="fa-brands fa-youtube "></i></a>
+        </div>
+    </div>
+        <div class="BajrangPunia">
+        	<img src="C:\Users\DELL\Downloads\images - 2023-06-14T105650.425.jpeg" width="120px" height="120px">
+        	<h3>Bajrang Punia</h3>
+        	<p>Indian Wrestler</p>
+        	<div class="socialmedia"> 
+        	<a href="">	<i class="fa-brands fa-facebook fa-beat"></i></a>
+        	<a href="">	<i class="fa-brands fa-twitter "></i></a>
+        	<a href="">	<i class="fa-brands fa-instagram "></i></a>
+        	<a href="">	<i class="fa-brands fa-youtube "></i></a>
+        </div>
+    </div>
+    <!--just do this same things for other sports personalities-->
+    <div class="SakshiMalik">
+        	<img src="C:\Users\DELL\Downloads\images (100).jpeg" width="120px" height="120px">
+        	<h3>Sakshi Malik</h3>
+        	<p>Indian Wrestler</p>
+        	<div class="socialmedia"> 
+        	<a href="">	<i class="fa-brands fa-facebook fa-beat"></i></a>
+        	<a href="">	<i class="fa-brands fa-twitter "></i></a>
+        	<a href="">	<i class="fa-brands fa-instagram "></i></a>
+        	<a href="">	<i class="fa-brands fa-youtube "></i></a>
+        </div>
+    </div>
+<div class="PVSINDHU">
+        	<img src="C:\Users\DELL\Downloads\images - 2023-06-14T105133.817.jpeg" width="120px" height="120px">
+        	<h3>PV SINDHU</h3>
+        	<p>Indian Badminton Player</p>
+        	<div class="socialmedia"> 
+        	<a href="">	<i class="fa-brands fa-facebook fa-beat"></i></a>
+        	<a href="">	<i class="fa-brands fa-twitter "></i></a>
+        	<a href="">	<i class="fa-brands fa-instagram "></i></a>
+        	<a href="">	<i class="fa-brands fa-youtube "></i></a>
+        </div>
+    </div>
+</body>
+</html>
+ 
