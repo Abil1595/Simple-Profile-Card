@@ -1,0 +1,123 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: times new roman;
+	text-transform: capitalize;
+	text-align: center;
+	background-color: lightgoldenrodyellow;
+}
+.Viratkohli {           
+  display: inline-block;
+  padding: 20px 30px;
+  border-radius: 20px;
+   border: blue solid;
+  margin: 10px;
+  transition: 10s;
+}
+
+.Viratkohli img {
+  transition: 0.2s;
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.Viratkohli:hover img {
+  transition: 0.2s;
+  outline: 4px solid blueviolet;
+}
+.Viratkohli p {
+  color: grey;
+}
+.BajrangPunia{
+	display: inline-block;
+  padding: 20px 30px;
+  border-radius: 20px;
+   border: red solid;
+  margin: 10px;
+  transition: 10s;
+
+}
+.BajrangPunia img {
+  transition: 0.2s;
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.BajrangPunia:hover img {
+  transition: 0.2s;
+  outline: 4px solid grey;
+}
+.BajrangPunia p {
+  color: grey;
+}
+.SakshiMalik{
+	display: inline-block;
+  padding: 20px 30px;
+  border-radius: 20px;
+   border: green solid;
+  margin: 10px;
+  transition: 10s;
+
+}
+.SakshiMalik img {
+  transition: 0.2s;
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.SakshiMalik:hover img {
+  transition: 0.2s;
+  outline: 4px solid green;
+}
+.SakshiMalik p {
+  color: grey;
+}
+.PVSINDHU{
+	display: inline-block;
+  padding: 20px 30px;
+  border-radius: 20px;
+   border: violet solid;
+  margin: 10px;
+  transition: 10s;
+
+}
+.PVSINDHU img {
+  transition: 0.2s;
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.PVSINDHU:hover img {
+  transition: 0.2s;
+  outline: 4px solid red;
+}
+.PVSINDHU p {
+  color: grey;
+}
+
+
+}
+.socialmedia a i{
+	color: green;
+	font-size: large;
+	transition: 0.5s;
+	padding: 20px 0;
+}
+.socialmedia a i:hover {
+	transition: 0.5s;
+	transform: scale(2);
+}
+.socialmedia{
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	gap: 12px;
+}
+h1 {
+	margin: 20px 0;
+}
